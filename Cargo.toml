@@ -1,5 +1,5 @@
 [package]
-name = "axum-tera-bulma"
+name = "axumkit"
 version = "1.3.0"
 authors = ["Daiki Nakashima"]
 edition = "2021"
