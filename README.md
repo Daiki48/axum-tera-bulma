@@ -1,9 +1,11 @@
-# axum-tera-bulma
+<div align="center">
+    <h1>axumkit</h1>
+</div>
 
 <div align="center">
-    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Daiki48/axum-tera-bulma">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Daiki48/axum-tera-bulma">
-    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Daiki48/axum-tera-bulma">
+    <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Daiki48/axumkit">
+    <img alt="GitHub" src="https://img.shields.io/github/license/Daiki48/axumkit">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Daiki48/axumkit">
 </div>
 
 <div align="center">
@@ -19,13 +21,3 @@
 - [axum](https://github.com/tokio-rs/axum) - Backend
 - [Tera](https://github.com/Keats/tera) - HTML Templates
 - [Bulma](https://bulma.io/) - CSS Framework
-
-## Change Log
-
-### v1.0.0
-
-- Added error handling
-- Update dependencies and added dependencies
-  - Latest as of December 31, 2024
-- Added test
-  - Added GitHub Actions workflows for running test

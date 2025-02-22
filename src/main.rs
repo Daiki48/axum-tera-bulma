@@ -23,7 +23,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error + Send + Sync>> {
 
 fn common_context() -> tera::Context {
     let mut context = tera::Context::new();
-    context.insert("title", "axum-tera");
+    context.insert("title", "axumkit");
     context
 }
 
